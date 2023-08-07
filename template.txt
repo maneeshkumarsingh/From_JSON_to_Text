@@ -1,0 +1,11 @@
+Hello there!
+
+Name_Maneesh {name[0]} {name[1]} {name[2]}
+Age: {age}
+City: {city}
+
+MODULES {modules[LOCAL][0][id]} {modules[LOCAL][0][comment]}
+
+Thank you for providing your information.
+
+comment
