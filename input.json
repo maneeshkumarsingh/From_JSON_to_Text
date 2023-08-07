@@ -1,0 +1,13 @@
+{
+    "name": ["John","Kumar","Singh"],
+    "age": 30,
+    "city": "New York",
+    "modules": {
+        "LOCAL": [
+            {		
+                "id" : "0x00",
+                "comment" : "* TIMNT"
+            }
+        ]
+}
+}
